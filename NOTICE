@@ -1,0 +1,20 @@
+PIXEL - Port IoT for Environmental Leverage
+D4.4 PREDICTIVE ALGORITHMS
+
+This project has received funding from the European Union’s Horizon 2020
+research and innovation programme under grant agreement No 769355.
+
+Copyright 2018-2019 PRODEVELOP S.L
+
+This product uses the following software with corresponding licenses:
+	Pandas 1.0.3    https://github.com/pandas-dev/pandas/blob/master/LICENSE - distributed under BSD 3-Clause License
+	Seaborn 0.10.1 https://github.com/mwaskom/seaborn/blob/master/LICENSE - distributed under BSD 3-Clause License
+	Scikit-learn 0.22.2 https://github.com/scikit-learn/sklearn-docbuilder/blob/master/LICENSE distributed under MIT License
+	Matplotlib 3.2.1 https://github.com/matplotlib/matplotlib/blob/master/LICENSE/LICENSE distributed under PSF License
+	Tensorflow 2.0 https://github.com/tensorflow/tensorflow/blob/master/LICENSE distributed under Apaceh License 2.0
+	Keras 2.2.5 https://github.com/keras-team/keras/blob/master/LICENSE distributed under MIT License
+	Numpy 1.18.3 https://numpy.org/license.html distributed under BSD License
+	Holoviews 1.13.2 https://numpy.org/license.html distributed under BSD-3 License
+	Plotly 4.6.0 https://github.com/plotly/plotly.js/blob/master/LICENSE distributed under MIT License
+	fbprophet 0.6 https://github.com/facebook/prophet/blob/master/LICENSE distributed under MIT License
+	
